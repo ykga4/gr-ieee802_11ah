@@ -31,12 +31,12 @@ You need at least version 3.7.9
     sudo ldconfig
 
 
-## Installation of gr-ieee802-11
+## Installation of gr-ieee802-11ah
 
 To actually install the blocks do
 
-    git clone git://github.com/bastibl/gr-ieee802-11.git
-    cd gr-ieee802-11
+    git clone https://github.com/ykga4/gr-ieee802_11ah.git
+    cd gr-ieee802_11ah
     mkdir build
     cd build
     cmake ..
