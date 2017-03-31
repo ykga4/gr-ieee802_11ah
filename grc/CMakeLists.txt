@@ -18,5 +18,5 @@
 # Boston, MA 02110-1301, USA.
 
 install(FILES
-    DESTINATION share/gnuradio/grc/blocks
+    ieee802_11ah_ofdm_sync_long_impl.xml DESTINATION share/gnuradio/grc/blocks
 )

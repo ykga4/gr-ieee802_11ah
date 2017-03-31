@@ -22,5 +22,5 @@
 ########################################################################
 install(FILES
     api.h
-    DESTINATION include/ieee802_11ah
+    ofdm_sync_long_impl.h DESTINATION include/ieee802_11ah
 )

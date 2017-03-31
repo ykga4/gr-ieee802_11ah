@@ -26,6 +26,7 @@ include_directories(${Boost_INCLUDE_DIR})
 link_directories(${Boost_LIBRARY_DIRS})
 
 list(APPEND ieee802_11ah_sources
+    ofdm_sync_long_impl_impl.cc
 )
 
 set(ieee802_11ah_sources "${ieee802_11ah_sources}" PARENT_SCOPE)
